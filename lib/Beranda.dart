@@ -27,7 +27,7 @@ class _Beranda extends State<Beranda> {
                     children: <Widget>[
                       Container(
                         child: Text(
-                          "Lokasi kamu",
+                          "Lokasi kamuyyy",
                           style: TextStyle(
                               fontWeight: FontWeight.normal,
                               fontSize: 16,
